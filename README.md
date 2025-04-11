@@ -1,4 +1,4 @@
-# JFramework-AStarPathfinding
+# Astraia-AStar
 基于JobSystem的A星寻路算法的测试脚本：
 ```csharp
 using System.Collections;
